@@ -5,3 +5,4 @@ git rm --cached <file>..." to unstage
 
 git status ==> shows status of working directory and staging area
 
+git commit ==> commiting changes to local repo
