@@ -13,5 +13,16 @@ git commit ==> commiting changes to local repo
 creating remote repo for my local repo
 git remote add origin <remote repo location>
 
+if I want to change the branch 
+git branch -M main
+
 Pushing into the remote repo
 git push -u origin main/master
+
+
+to pull changes from github
+git pull
+
+`git branch <branchName>` ==> creating a new branch
+
+`git checkout <branchName>` ==> changing branch
