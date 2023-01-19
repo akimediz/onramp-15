@@ -1,3 +1,6 @@
+Initializing git
+git init
+
 git add ==> add file to staging area or keep track of changes made.
 git add . / git add <fileName>
 
@@ -6,3 +9,9 @@ git rm --cached <file>..." to unstage
 git status ==> shows status of working directory and staging area
 
 git commit ==> commiting changes to local repo
+
+creating remote repo for my local repo
+git remote add origin <remote repo location>
+
+Pushing into the remote repo
+git push -u origin main/master
