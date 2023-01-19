@@ -15,3 +15,6 @@ git remote add origin <remote repo location>
 
 Pushing into the remote repo
 git push -u origin main/master
+
+merging new branch into main
+git merge <branchName>
