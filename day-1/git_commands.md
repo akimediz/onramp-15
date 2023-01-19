@@ -28,3 +28,5 @@ git pull
 `git branch <branchName>` ==> creating a new branch
 
 `git checkout <branchName>` ==> changing branch
+
+`git clone <github http url>` ==> use to download a copy of the remote repository into our local machine
